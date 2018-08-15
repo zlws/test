@@ -1,5 +1,5 @@
 Test class{
 	public static void main(String[] args){
-		int a=30
+		int a=15
 	} 
 }
